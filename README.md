@@ -1,5 +1,4 @@
-# Color-Guesser-
-Website for a simple game.
+# Mi a Színe? The Simple Color Guesser Game
 
 Can you guess the color?
 
