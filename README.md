@@ -1,4 +1,5 @@
-# Mi a Színe? The Simple Color Guesser Game
+# Mi a Színe? 
+# The Simple Color Guesser Game
 
 Can you guess the color?
 
